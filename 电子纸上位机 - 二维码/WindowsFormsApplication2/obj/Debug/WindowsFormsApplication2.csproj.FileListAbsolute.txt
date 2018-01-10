@@ -1,0 +1,126 @@
+D:\cccc\WindowsFormsApplication2\WindowsFormsApplication2\bin\Debug\WindowsFormsApplication2.exe.config
+D:\cccc\WindowsFormsApplication2\WindowsFormsApplication2\bin\Debug\WindowsFormsApplication2.exe
+D:\cccc\WindowsFormsApplication2\WindowsFormsApplication2\bin\Debug\WindowsFormsApplication2.pdb
+D:\cccc\WindowsFormsApplication2\WindowsFormsApplication2\obj\Debug\WindowsFormsApplication2.csprojResolveAssemblyReference.cache
+D:\cccc\WindowsFormsApplication2\WindowsFormsApplication2\obj\Debug\WindowsFormsApplication2.Form1.resources
+D:\cccc\WindowsFormsApplication2\WindowsFormsApplication2\obj\Debug\WindowsFormsApplication2.Properties.Resources.resources
+D:\cccc\WindowsFormsApplication2\WindowsFormsApplication2\obj\Debug\WindowsFormsApplication2.csproj.GenerateResource.Cache
+D:\cccc\WindowsFormsApplication2\WindowsFormsApplication2\obj\Debug\WindowsFormsApplication2.exe
+D:\cccc\WindowsFormsApplication2\WindowsFormsApplication2\obj\Debug\WindowsFormsApplication2.pdb
+C:\Users\hyc\Desktop\服务器TCP多线程+字模\WindowsFormsApplication2\bin\Debug\WindowsFormsApplication2.exe.config
+C:\Users\hyc\Desktop\服务器TCP多线程+字模\WindowsFormsApplication2\obj\Debug\WindowsFormsApplication2.exe
+C:\Users\hyc\Desktop\服务器TCP多线程+字模\WindowsFormsApplication2\obj\Debug\WindowsFormsApplication2.pdb
+C:\Users\hyc\Desktop\服务器TCP多线程+字模\WindowsFormsApplication2\bin\Debug\WindowsFormsApplication2.exe
+C:\Users\hyc\Desktop\服务器TCP多线程+字模\WindowsFormsApplication2\bin\Debug\WindowsFormsApplication2.pdb
+C:\Users\hyc\Desktop\服务器TCP多线程+字模\WindowsFormsApplication2\obj\Debug\WindowsFormsApplication2.Form1.resources
+C:\Users\hyc\Desktop\服务器TCP多线程+字模\WindowsFormsApplication2\obj\Debug\WindowsFormsApplication2.Properties.Resources.resources
+C:\Users\hyc\Desktop\服务器TCP多线程+字模\WindowsFormsApplication2\obj\Debug\WindowsFormsApplication2.csproj.GenerateResource.Cache
+C:\Users\hyc\Desktop\服务器TCP多线程+字模\WindowsFormsApplication2\bin\Debug\ThoughtWorks.QRCode.dll
+C:\Users\hyc\Desktop\服务器TCP多线程+字模\WindowsFormsApplication2\obj\Debug\WindowsFormsApplication2.csprojResolveAssemblyReference.cache
+C:\Users\hyc\Desktop\TCP+多线程+字模没有二维码\WindowsFormsApplication2\bin\Debug\WindowsFormsApplication2.exe.config
+C:\Users\hyc\Desktop\TCP+多线程+字模没有二维码\WindowsFormsApplication2\obj\Debug\WindowsFormsApplication2.exe
+C:\Users\hyc\Desktop\TCP+多线程+字模没有二维码\WindowsFormsApplication2\obj\Debug\WindowsFormsApplication2.pdb
+C:\Users\hyc\Desktop\TCP+多线程+字模没有二维码\WindowsFormsApplication2\bin\Debug\WindowsFormsApplication2.exe
+C:\Users\hyc\Desktop\TCP+多线程+字模没有二维码\WindowsFormsApplication2\bin\Debug\WindowsFormsApplication2.pdb
+C:\Users\hyc\Desktop\TCP+多线程+字模没有二维码\WindowsFormsApplication2\bin\Debug\ThoughtWorks.QRCode.dll
+C:\Users\hyc\Desktop\TCP+多线程+字模没有二维码\WindowsFormsApplication2\obj\Debug\WindowsFormsApplication2.csprojResolveAssemblyReference.cache
+C:\Users\hyc\Desktop\TCP+多线程+字模没有二维码\WindowsFormsApplication2\obj\Debug\WindowsFormsApplication2.Form1.resources
+C:\Users\hyc\Desktop\TCP+多线程+字模没有二维码\WindowsFormsApplication2\obj\Debug\WindowsFormsApplication2.Properties.Resources.resources
+C:\Users\hyc\Desktop\TCP+多线程+字模没有二维码\WindowsFormsApplication2\obj\Debug\WindowsFormsApplication2.csproj.GenerateResource.Cache
+C:\Users\hyc\Desktop\TCP+多线程+字模没有二维码 - 副本\WindowsFormsApplication2\bin\Debug\WindowsFormsApplication2.exe.config
+C:\Users\hyc\Desktop\TCP+多线程+字模没有二维码 - 副本\WindowsFormsApplication2\obj\Debug\WindowsFormsApplication2.exe
+C:\Users\hyc\Desktop\TCP+多线程+字模没有二维码 - 副本\WindowsFormsApplication2\obj\Debug\WindowsFormsApplication2.pdb
+C:\Users\hyc\Desktop\TCP+多线程+字模没有二维码 - 副本\WindowsFormsApplication2\bin\Debug\WindowsFormsApplication2.exe
+C:\Users\hyc\Desktop\TCP+多线程+字模没有二维码 - 副本\WindowsFormsApplication2\bin\Debug\WindowsFormsApplication2.pdb
+C:\Users\hyc\Desktop\TCP+多线程+字模没有二维码 - 副本\WindowsFormsApplication2\bin\Debug\ThoughtWorks.QRCode.dll
+C:\Users\hyc\Desktop\TCP+多线程+字模没有二维码 - 副本\WindowsFormsApplication2\obj\Debug\WindowsFormsApplication2.csprojResolveAssemblyReference.cache
+C:\Users\hyc\Desktop\TCP+多线程+字模没有二维码 - 副本\WindowsFormsApplication2\obj\Debug\WindowsFormsApplication2.Form1.resources
+C:\Users\hyc\Desktop\TCP+多线程+字模没有二维码 - 副本\WindowsFormsApplication2\obj\Debug\WindowsFormsApplication2.Properties.Resources.resources
+C:\Users\hyc\Desktop\TCP+多线程+字模没有二维码 - 副本\WindowsFormsApplication2\obj\Debug\WindowsFormsApplication2.csproj.GenerateResource.Cache
+C:\Users\hyc\Desktop\TCP+多线程+字模没有二维码 - test1\WindowsFormsApplication2\bin\Debug\WindowsFormsApplication2.exe.config
+C:\Users\hyc\Desktop\TCP+多线程+字模没有二维码 - test1\WindowsFormsApplication2\obj\Debug\WindowsFormsApplication2.exe
+C:\Users\hyc\Desktop\TCP+多线程+字模没有二维码 - test1\WindowsFormsApplication2\obj\Debug\WindowsFormsApplication2.pdb
+C:\Users\hyc\Desktop\TCP+多线程+字模没有二维码 - test1\WindowsFormsApplication2\bin\Debug\WindowsFormsApplication2.exe
+C:\Users\hyc\Desktop\TCP+多线程+字模没有二维码 - test1\WindowsFormsApplication2\bin\Debug\WindowsFormsApplication2.pdb
+C:\Users\hyc\Desktop\TCP+多线程+字模没有二维码 - test1\WindowsFormsApplication2\bin\Debug\ThoughtWorks.QRCode.dll
+C:\Users\hyc\Desktop\TCP+多线程+字模没有二维码 - test1\WindowsFormsApplication2\obj\Debug\WindowsFormsApplication2.csprojResolveAssemblyReference.cache
+C:\Users\hyc\Desktop\TCP+多线程+字模没有二维码 - test1\WindowsFormsApplication2\obj\Debug\WindowsFormsApplication2.Form1.resources
+C:\Users\hyc\Desktop\TCP+多线程+字模没有二维码 - test1\WindowsFormsApplication2\obj\Debug\WindowsFormsApplication2.Properties.Resources.resources
+C:\Users\hyc\Desktop\TCP+多线程+字模没有二维码 - test1\WindowsFormsApplication2\obj\Debug\WindowsFormsApplication2.csproj.GenerateResource.Cache
+C:\Users\hyc\Desktop\TCP+多线程+字模没有二维码 - test2\WindowsFormsApplication2\bin\Debug\WindowsFormsApplication2.exe.config
+C:\Users\hyc\Desktop\TCP+多线程+字模没有二维码 - test2\WindowsFormsApplication2\obj\Debug\WindowsFormsApplication2.exe
+C:\Users\hyc\Desktop\TCP+多线程+字模没有二维码 - test2\WindowsFormsApplication2\obj\Debug\WindowsFormsApplication2.pdb
+C:\Users\hyc\Desktop\TCP+多线程+字模没有二维码 - test2\WindowsFormsApplication2\bin\Debug\WindowsFormsApplication2.exe
+C:\Users\hyc\Desktop\TCP+多线程+字模没有二维码 - test2\WindowsFormsApplication2\bin\Debug\WindowsFormsApplication2.pdb
+C:\Users\hyc\Desktop\TCP+多线程+字模没有二维码 - test2\WindowsFormsApplication2\bin\Debug\ThoughtWorks.QRCode.dll
+C:\Users\hyc\Desktop\TCP+多线程+字模没有二维码 - test2\WindowsFormsApplication2\obj\Debug\WindowsFormsApplication2.csprojResolveAssemblyReference.cache
+C:\Users\hyc\Desktop\TCP+多线程+字模没有二维码 - test2\WindowsFormsApplication2\obj\Debug\WindowsFormsApplication2.Form1.resources
+C:\Users\hyc\Desktop\TCP+多线程+字模没有二维码 - test2\WindowsFormsApplication2\obj\Debug\WindowsFormsApplication2.Properties.Resources.resources
+C:\Users\hyc\Desktop\TCP+多线程+字模没有二维码 - test2\WindowsFormsApplication2\obj\Debug\WindowsFormsApplication2.csproj.GenerateResource.Cache
+C:\Users\hyc\Desktop\TCP+多线程+字模+二维码 - test1\WindowsFormsApplication2\bin\Debug\WindowsFormsApplication2.exe.config
+C:\Users\hyc\Desktop\TCP+多线程+字模+二维码 - test1\WindowsFormsApplication2\obj\Debug\WindowsFormsApplication2.exe
+C:\Users\hyc\Desktop\TCP+多线程+字模+二维码 - test1\WindowsFormsApplication2\obj\Debug\WindowsFormsApplication2.pdb
+C:\Users\hyc\Desktop\TCP+多线程+字模+二维码 - test1\WindowsFormsApplication2\bin\Debug\WindowsFormsApplication2.exe
+C:\Users\hyc\Desktop\TCP+多线程+字模+二维码 - test1\WindowsFormsApplication2\bin\Debug\WindowsFormsApplication2.pdb
+C:\Users\hyc\Desktop\TCP+多线程+字模+二维码 - test1\WindowsFormsApplication2\bin\Debug\ThoughtWorks.QRCode.dll
+C:\Users\hyc\Desktop\TCP+多线程+字模+二维码 - test1\WindowsFormsApplication2\obj\Debug\WindowsFormsApplication2.csprojResolveAssemblyReference.cache
+C:\Users\hyc\Desktop\TCP+多线程+字模+二维码 - test1\WindowsFormsApplication2\obj\Debug\WindowsFormsApplication2.Form1.resources
+C:\Users\hyc\Desktop\TCP+多线程+字模+二维码 - test1\WindowsFormsApplication2\obj\Debug\WindowsFormsApplication2.Properties.Resources.resources
+C:\Users\hyc\Desktop\TCP+多线程+字模+二维码 - test1\WindowsFormsApplication2\obj\Debug\WindowsFormsApplication2.csproj.GenerateResource.Cache
+C:\Users\hyc\Desktop\TCP+多线程+字模+二维码 - test3\WindowsFormsApplication2\bin\Debug\WindowsFormsApplication2.exe.config
+C:\Users\hyc\Desktop\TCP+多线程+字模+二维码 - test3\WindowsFormsApplication2\obj\Debug\WindowsFormsApplication2.exe
+C:\Users\hyc\Desktop\TCP+多线程+字模+二维码 - test3\WindowsFormsApplication2\obj\Debug\WindowsFormsApplication2.pdb
+C:\Users\hyc\Desktop\TCP+多线程+字模+二维码 - test3\WindowsFormsApplication2\bin\Debug\WindowsFormsApplication2.exe
+C:\Users\hyc\Desktop\TCP+多线程+字模+二维码 - test3\WindowsFormsApplication2\bin\Debug\WindowsFormsApplication2.pdb
+C:\Users\hyc\Desktop\TCP+多线程+字模+二维码 - test3\WindowsFormsApplication2\bin\Debug\ThoughtWorks.QRCode.dll
+C:\Users\hyc\Desktop\TCP+多线程+字模+二维码 - test3\WindowsFormsApplication2\obj\Debug\WindowsFormsApplication2.csprojResolveAssemblyReference.cache
+C:\Users\hyc\Desktop\TCP+多线程+字模+二维码 - test3\WindowsFormsApplication2\obj\Debug\WindowsFormsApplication2.Form1.resources
+C:\Users\hyc\Desktop\TCP+多线程+字模+二维码 - test3\WindowsFormsApplication2\obj\Debug\WindowsFormsApplication2.Properties.Resources.resources
+C:\Users\hyc\Desktop\TCP+多线程+字模+二维码 - test3\WindowsFormsApplication2\obj\Debug\WindowsFormsApplication2.csproj.GenerateResource.Cache
+C:\Users\hyc\Desktop\电子纸上位机 - test3\WindowsFormsApplication2\bin\Debug\WindowsFormsApplication2.exe.config
+C:\Users\hyc\Desktop\电子纸上位机 - test3\WindowsFormsApplication2\obj\Debug\WindowsFormsApplication2.exe
+C:\Users\hyc\Desktop\电子纸上位机 - test3\WindowsFormsApplication2\obj\Debug\WindowsFormsApplication2.pdb
+C:\Users\hyc\Desktop\电子纸上位机 - test3\WindowsFormsApplication2\bin\Debug\WindowsFormsApplication2.exe
+C:\Users\hyc\Desktop\电子纸上位机 - test3\WindowsFormsApplication2\bin\Debug\WindowsFormsApplication2.pdb
+C:\Users\hyc\Desktop\电子纸上位机 - test3\WindowsFormsApplication2\bin\Debug\ThoughtWorks.QRCode.dll
+C:\Users\hyc\Desktop\电子纸上位机 - test3\WindowsFormsApplication2\obj\Debug\WindowsFormsApplication2.csprojResolveAssemblyReference.cache
+C:\Users\hyc\Desktop\电子纸上位机 - test3\WindowsFormsApplication2\obj\Debug\WindowsFormsApplication2.Form1.resources
+C:\Users\hyc\Desktop\电子纸上位机 - test3\WindowsFormsApplication2\obj\Debug\WindowsFormsApplication2.Properties.Resources.resources
+C:\Users\hyc\Desktop\电子纸上位机 - test3\WindowsFormsApplication2\obj\Debug\WindowsFormsApplication2.csproj.GenerateResource.Cache
+C:\Users\Administrator\Desktop\电子纸上位机 - test4\WindowsFormsApplication2\bin\Debug\WindowsFormsApplication2.exe.config
+C:\Users\Administrator\Desktop\电子纸上位机 - test4\WindowsFormsApplication2\obj\Debug\WindowsFormsApplication2.exe
+C:\Users\Administrator\Desktop\电子纸上位机 - test4\WindowsFormsApplication2\obj\Debug\WindowsFormsApplication2.pdb
+C:\Users\Administrator\Desktop\电子纸上位机 - test4\WindowsFormsApplication2\bin\Debug\WindowsFormsApplication2.exe
+C:\Users\Administrator\Desktop\电子纸上位机 - test4\WindowsFormsApplication2\bin\Debug\WindowsFormsApplication2.pdb
+C:\Users\Administrator\Desktop\电子纸上位机 - test4\WindowsFormsApplication2\obj\Debug\WindowsFormsApplication2.csprojResolveAssemblyReference.cache
+C:\Users\Administrator\Desktop\电子纸上位机 - test4\WindowsFormsApplication2\obj\Debug\WindowsFormsApplication2.Form1.resources
+C:\Users\Administrator\Desktop\电子纸上位机 - test4\WindowsFormsApplication2\obj\Debug\WindowsFormsApplication2.Properties.Resources.resources
+C:\Users\Administrator\Desktop\电子纸上位机 - test4\WindowsFormsApplication2\obj\Debug\WindowsFormsApplication2.csproj.GenerateResource.Cache
+E:\单片机\wifi电子标签\电子纸上位机 - test4\WindowsFormsApplication2\bin\Debug\WindowsFormsApplication2.exe.config
+E:\单片机\wifi电子标签\电子纸上位机 - test4\WindowsFormsApplication2\obj\Debug\WindowsFormsApplication2.exe
+E:\单片机\wifi电子标签\电子纸上位机 - test4\WindowsFormsApplication2\obj\Debug\WindowsFormsApplication2.pdb
+E:\单片机\wifi电子标签\电子纸上位机 - 二维码\WindowsFormsApplication2\bin\Debug\WindowsFormsApplication2.exe.config
+E:\单片机\wifi电子标签\电子纸上位机 - 二维码\WindowsFormsApplication2\obj\Debug\WindowsFormsApplication2.exe
+E:\单片机\wifi电子标签\电子纸上位机 - 二维码\WindowsFormsApplication2\obj\Debug\WindowsFormsApplication2.pdb
+E:\单片机\wifi电子标签\电子纸上位机 - 二维码\WindowsFormsApplication2\bin\Debug\WindowsFormsApplication2.exe
+E:\单片机\wifi电子标签\电子纸上位机 - 二维码\WindowsFormsApplication2\bin\Debug\WindowsFormsApplication2.pdb
+E:\单片机\wifi电子标签\电子纸上位机 - 二维码\WindowsFormsApplication2\obj\Debug\WindowsFormsApplication2.csprojResolveAssemblyReference.cache
+E:\单片机\wifi电子标签\电子纸上位机 - 二维码\WindowsFormsApplication2\obj\Debug\WindowsFormsApplication2.Form1.resources
+E:\单片机\wifi电子标签\电子纸上位机 - 二维码\WindowsFormsApplication2\obj\Debug\WindowsFormsApplication2.Properties.Resources.resources
+E:\单片机\wifi电子标签\电子纸上位机 - 二维码\WindowsFormsApplication2\obj\Debug\WindowsFormsApplication2.csproj.GenerateResource.Cache
+C:\Users\Administrator\Desktop\电子纸上位机 - 二维码\WindowsFormsApplication2\bin\Debug\WindowsFormsApplication2.exe.config
+C:\Users\Administrator\Desktop\电子纸上位机 - 二维码\WindowsFormsApplication2\bin\Debug\WindowsFormsApplication2.exe
+C:\Users\Administrator\Desktop\电子纸上位机 - 二维码\WindowsFormsApplication2\bin\Debug\WindowsFormsApplication2.pdb
+C:\Users\Administrator\Desktop\电子纸上位机 - 二维码\WindowsFormsApplication2\bin\Debug\DotNetBarcode.dll
+C:\Users\Administrator\Desktop\电子纸上位机 - 二维码\WindowsFormsApplication2\bin\Debug\FluentNHibernate.dll
+C:\Users\Administrator\Desktop\电子纸上位机 - 二维码\WindowsFormsApplication2\bin\Debug\Iesi.Collections.dll
+C:\Users\Administrator\Desktop\电子纸上位机 - 二维码\WindowsFormsApplication2\bin\Debug\MySql.Data.dll
+C:\Users\Administrator\Desktop\电子纸上位机 - 二维码\WindowsFormsApplication2\bin\Debug\MySql.Web.dll
+C:\Users\Administrator\Desktop\电子纸上位机 - 二维码\WindowsFormsApplication2\bin\Debug\NHibernate.dll
+C:\Users\Administrator\Desktop\电子纸上位机 - 二维码\WindowsFormsApplication2\bin\Debug\ThoughtWorks.QRCode.dll
+C:\Users\Administrator\Desktop\电子纸上位机 - 二维码\WindowsFormsApplication2\obj\Debug\WindowsFormsApplication2.Form1.resources
+C:\Users\Administrator\Desktop\电子纸上位机 - 二维码\WindowsFormsApplication2\obj\Debug\WindowsFormsApplication2.Properties.Resources.resources
+C:\Users\Administrator\Desktop\电子纸上位机 - 二维码\WindowsFormsApplication2\obj\Debug\WindowsFormsApplication2.csproj.GenerateResource.Cache
+C:\Users\Administrator\Desktop\电子纸上位机 - 二维码\WindowsFormsApplication2\obj\Debug\WindowsFormsApplication2.exe
+C:\Users\Administrator\Desktop\电子纸上位机 - 二维码\WindowsFormsApplication2\obj\Debug\WindowsFormsApplication2.pdb
+C:\Users\Administrator\Desktop\电子纸上位机 - 二维码\WindowsFormsApplication2\obj\Debug\WindowsFormsApplication2.csprojResolveAssemblyReference.cache
